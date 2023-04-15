@@ -1,0 +1,8 @@
+aaaaaaa
+bbbbbbb
+*******
+1234567
+7654321
+#######
+ddddddd
+eeeeeee---aaaaaaa---bbbbbbb*******---1234567---7654321#######---ddddddd---eeeeeee

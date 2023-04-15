@@ -1,0 +1,11 @@
+Software to install
+===================
+1. Anaconda distribution of Python - https://www.anaconda.com/
+Instructions to install: https://docs.anaconda.com/anaconda/install/windows/
+
+2. VSCode - Visual Studio Code: https://code.visualstudio.com/download
+
+3. git - https://git-scm.com/download/win
+
+4. SQL - MySQL: https://dev.mysql.com/downloads/installer/
+PostgreSQL: https://www.postgresql.org/download/windows/
